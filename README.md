@@ -14,8 +14,8 @@ Each activity has its own **README** with a mini primer, step-by-step TODOs, a q
 ## Getting started
 
 1. Python and VSCode will already be installed. Just login to the computer and open VSCode.
-2. **Clone or download** this repo.
-3. Open the folder for the activity you want to try in VSCode  (File -> Open Folder).
+2. Create a folder called 'code' on the Desktop, if it doesn't already exist. Then open the folder in VSCode (File -> Open Folder).
+3. **Clone or download** this repo. ( Open terminal in VSCode then enter: `git clone https://github.com/jhudshcg/python_y10openday_student.git` )
 4. Open the `.py` file and click **Run ▶**.
 5. Follow the comments in the code — they guide you (along with the lesson README.md file) through each change 
 (marked by the TODO sections)
